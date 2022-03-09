@@ -1,1 +1,119 @@
 /* Write your CSS here! */
+
+
+/* LC rules: */
+    #mainHeading{
+        color: red;
+        font-family: 'Quicksand', sans-serif;
+        font: 'Quicksand';
+        font-size: 45px;
+        padding: 150px;
+    }
+
+    body{
+        margin: 8px;
+        display: block;
+        background-color: #cd8159;
+        opacity: 0.9;
+    }
+
+    .funParagraph{
+        color: green;
+    }
+
+
+/* my css */
+    header{
+        background-image: url("/Users/Glock/Desktop/CoderWomen/asgmtFour/assignment-4-html-me-something-ayrhkhan/images/moon.png");
+
+
+    }
+
+    main{
+        background-image: url("/Users/Glock/Desktop/CoderWomen/asgmtFour/assignment-4-html-me-something-ayrhkhan/images/cloudFacing.png");
+        align-items: stretch;
+    }
+
+    p{
+        font-family: 'Quicksand', sans-serif;
+        font: 'Quicksand';
+        font-size: 15px;
+        color: black !important;
+        align-items: stretch;
+        text-align: center;
+
+    } 
+
+
+        h2{
+            color: #cd8159;
+            font-family: 'Quicksand', sans-serif;
+            font: 'Quicksand';
+            font-size: 45px;
+            text-align: center;
+
+         }
+
+
+        #toolOne{
+            align-items: stretch;
+        }
+
+        #blueheader{
+          color: #2b2933;
+
+        }
+
+
+    .resizedToolImages{
+        height: 500px;
+        /* width: 50%; */
+        display: inline-block;
+        align-items: center;
+        /* display: flex;
+        align-items: center; */
+
+    }
+
+    .tools{
+        padding-left: 13px;
+        display: inline-block;
+        margin: auto;
+    }
+
+    .pinkOverlay{
+
+        background: #cd8159;
+        /* opacity: 0.1; */
+    }
+
+
+        article{
+        font-family: 'Quicksand', sans-serif;
+        font: 'Quicksand';
+        font-size: 45px !important;   
+     }
+
+
+
+    footer{
+        background-image: url("/Users/Glock/Desktop/CoderWomen/asgmtFour/assignment-4-html-me-something-ayrhkhan/images/bottomOfPic.png");
+    }
+
+    ul{
+        display: flex;
+        align-items: center;
+        list-style: none;
+        font-family: 'Quicksand', sans-serif;
+        font: 'Quicksand';
+        font-size: 30px;   
+
+
+    }
+
+    li{
+        padding-left: 30px;
+        padding: 30px;
+        align-items: center;
+
+    }
